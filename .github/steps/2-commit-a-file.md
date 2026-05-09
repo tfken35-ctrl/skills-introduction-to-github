@@ -17,7 +17,7 @@ _ブランチを作成できました！ :tada:_
 
 2. **Add file** ドロップダウンを選択し、**Create new file** をクリックします。
 
-   <img width="300" alt="screenshot of the create new file option" src="../images/create-new-file-option.png">
+   <img width="300" alt="screenshot of the create new file option" src="https://github.com/tfken35-ctrl/skills-introduction-to-github/blob/main/.github/images/create-new-file-option.png?raw=true">
 
 3. **Name your file...** フィールドに `PROFILE.md` と入力します。
 
@@ -27,7 +27,7 @@ _ブランチを作成できました！ :tada:_
    Welcome to my GitHub profile!
    ```
 
-   ![screenshot for adding the profile.md file](../images/add-profile-file.png)
+   ![screenshot for adding the profile.md file](https://github.com/tfken35-ctrl/skills-introduction-to-github/blob/main/.github/images/add-profile-file.png?raw=true)
 
 5. 内容ボックスの右上にある **Commit changes...** をクリックします。ダイアログが表示されます。
 
@@ -35,7 +35,7 @@ _ブランチを作成できました！ :tada:_
    
    - **コミットメッセージ** と、任意の **詳細な説明** を書くことで、変更内容がわかりやすくなります。特に、複数のファイルにまたがる変更では役立ちます。
 
-   <img width="400" alt="screenshot of adding a new file with a commit message" src="../images/commit-message-dialog.png">
+   <img width="400" alt="screenshot of adding a new file with a commit message" src="https://github.com/tfken35-ctrl/skills-introduction-to-github/blob/main/.github/images/commit-message-dialog.png?raw=true">
 
 6. このレッスンでは、今は他のフィールドは無視して **Commit changes** をクリックします。
 
